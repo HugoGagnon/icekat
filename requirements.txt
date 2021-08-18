@@ -1,5 +1,5 @@
 bokeh==1.4.0
-pandas==0.23.4
+pandas==0.25.3
 xlrd==1.2.0
 scipy==1.4.1
 lmfit==0.9.12
